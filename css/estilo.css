@@ -1,0 +1,45 @@
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+
+*{	font-family: 'Average Sans', sans-serif;
+
+	margin: 0;
+
+    padding:0;	
+
+	}
+
+	
+
+img {	max-width: 100%;
+
+		height: auto;}
+
+
+
+html,
+
+body, 
+
+footer{
+
+	background-image: url("https://www.transparenttextures.com/patterns/retina-dust.png");
+
+	background-color: #f7f7f7;
+
+}
+
+
+
+span.mensagem{
+
+	padding-top: 40px;
+
+	padding-bottom: 45px;
+
+	margin-top: 40px;
+
+}
